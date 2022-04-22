@@ -1,4 +1,4 @@
-![MasterHead](http://propulsive.in/assets/img/service-icon/dev.gif)(https://github.com/Debajyoti-Shit)
+![MasterHead](http://propulsive.in/assets/img/service-icon/dev.gif)
 
 <h1 align="center">Hi 👋, I'm Debajyoti Shit</h1>
 <h3 align="center">A Noob Coder & Noob Developer from India :)</h3>
