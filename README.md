@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/debajyotishit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debajyotishit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/debajyoti-shit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/debajyoti-shit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debajyoti-shit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/debajyoti-shit" height="30" width="40" /></a>
 <a href="https://instagram.com/debajyoti_ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debajyoti_ds" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/debajyoti-shit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debajyoti-shit" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<debajyotishit3>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<debajyotishit3>/profile" height="30" width="40" /></a>
