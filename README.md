@@ -54,4 +54,4 @@
 
 <br/>
 
-<a href="https://github.com/Debajyoti-Shit/github-readme-activity-graph"><img alt="Debajyoti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Debajyoti-Shit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Debajyoti-Shit/github-readme-activity-graph"><img alt="Debajyoti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=debajyoti-shit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a>
