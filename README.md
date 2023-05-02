@@ -1,6 +1,6 @@
 <h5>I Tried To Search Happiness in my life using Binary Search, But my life was not sorted.</h5>
 
-![MasterHead](http://propulsive.in/assets/img/service-icon/dev.gif)
+![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debajyoti Shit</h1>
 <h3 align="center">A Noob Coder & Noob Developer from India :)</h3>
